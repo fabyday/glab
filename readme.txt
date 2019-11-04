@@ -37,10 +37,13 @@ functions or meothods
 	action verb		: {add, remove, set, get, read, write, is}
 		add		:	when using iterable datastructure like list, dict, etc.
 		remove	:	when using iterable datastructure like list, dict, etc.
+		next 		: get next element from iterable object.
 		set		:	set flag or set variables value.
 		get		:	get a flag value or get a variables value.
 		read	:	smillar like a file I/O
 		write	:
 		is		:
+		
+		
 
 	
